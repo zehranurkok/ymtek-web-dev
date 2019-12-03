@@ -2,13 +2,12 @@
 * Bir adet index.html adında bir dosya oluşturun.
 * HTML iskelet yapısını yazın, ! ile hazır yapı kullanmayın.
 * Sayfanın başlığı "Blue Screen of Death" olsun.
-* Sayfanın 
-    * arka plan rengi "#000066",
-    * Font rengi "white",
-    * Font büyüklüğü "5px", 
-    * Font ailesi "Courier",
-olmalıdır.
 * icerik.txt dosyasının içerisindeki yazıyı görüntüdeki gibi sayfaya işleyin.
+* Görüntüdeki sayfa şu özellikleri taşımaktadır:
+    * arka plan rengi "#000066",
+    * font rengi "white",
+    * font büyüklüğü "5px",
+    * font ailesi "Courier"
 * Bu arada sayfanın en başına <!DOCTYPE html> yazmayı unutmayın.
 
 # Görüntü
