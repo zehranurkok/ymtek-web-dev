@@ -16,4 +16,3 @@
 # Görüntü
 <img src="bsod.png">
 
-## Efe Furkan KARAKAYA
