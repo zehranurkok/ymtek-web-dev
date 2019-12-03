@@ -8,7 +8,6 @@
     * font rengi "white",
     * font büyüklüğü "5px",
     * font ailesi "Courier"
-* Bu arada sayfanın en başına <!DOCTYPE html> yazmayı unutmayın.
 
 # Görüntü
 <img src="bsod.png">
