@@ -10,6 +10,6 @@
 * Bu arada sayfanın en başına <!DOCTYPE html> yazmayı unutmayın.
 
 # Görüntü
-<img src="bsod.jpg">
+<img src="bsod.png">
 
 ## Efe Furkan KARAKAYA
